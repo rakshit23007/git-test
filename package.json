@@ -1,0 +1,24 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "trying node for 1st time",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshit23007/git-test.git"
+  },
+  "author": "Rakshit007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakshit23007/git-test/issues"
+  },
+  "homepage": "https://github.com/rakshit23007/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
